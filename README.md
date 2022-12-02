@@ -1,14 +1,7 @@
 # Quad-tree-simulation
+A simulation of collision detection using the Quad-tree technique.
 
-A local live server is requiered.
-
-Instructions
-
-- Install Node.js. https://nodejs.org/en/.
-- Install live-server: in terminal type npm install -g live-server.
-- Go to the project root directory.
-- Type live-server.
-- Open http://127.0.0.1:8080/ in your browser.
+Try the application with this link: [https://markloboda.github.io/Quad-tree-simulation/](https://markloboda.github.io/Quad-tree-simulation/)
 
 Preview for the app:
 <img src="./images/preview.png">
